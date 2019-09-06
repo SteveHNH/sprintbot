@@ -1,0 +1,14 @@
+{
+  "name": "sprintbot",
+  "version": "1.0.0",
+  "description": "a word sprint bot for writers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Adams",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
